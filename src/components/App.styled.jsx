@@ -7,5 +7,4 @@ export const Box = styled.div`
   justify-content: center;
   align-items: center;
   font-size: ${props => props.theme.fontSize.m};
-  background-color: ${props => props.theme.colors.raspberry};
 `;
